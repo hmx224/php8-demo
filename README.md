@@ -8,6 +8,8 @@ php8测试api，基于laravel8
 
 api测试接口访问地址： url/api/test
 
+测试访问地址：http://php8.humengxu.com/api/test
+
 (2)改下 RouteServiceProvider.php的写法。
 比如API路由,将 $this->namespace改为 App\Http\Controllers\Api。
 ```$xslt
