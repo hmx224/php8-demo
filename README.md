@@ -31,3 +31,12 @@ public function boot()
 } 
 ```
 (3)配置文件 .env 改为   LOG_CHANNEL=daily
+
+
+## 学习该blog内容，让其完善更新到php8-demo
+ 
+https://github.com/lufficc/Xblog
+
+https://xblog.lufficc.com/blog/how-to-install-my-blog
+
+里边有些laravel框架的讲解内容
