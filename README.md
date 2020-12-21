@@ -40,3 +40,8 @@ https://github.com/lufficc/Xblog
 https://xblog.lufficc.com/blog/how-to-install-my-blog
 
 里边有些laravel框架的讲解内容
+
+
+## PHPUint测试工作
+
+[PHPUnit手册](https://phpunit.readthedocs.io/zh_CN/latest/)
