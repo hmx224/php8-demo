@@ -9,7 +9,7 @@
  * @Project        : php8-demo
  * @Description    : 运行命令: ./vendor/bin/phpunit app/tests/CalculatorTest.php
  */
-namespace App\tests;
+namespace App\Tests;
 
 use App\Models\Calculator;
 use PHPUnit\Framework\TestCase;

@@ -45,3 +45,9 @@ https://xblog.lufficc.com/blog/how-to-install-my-blog
 ## PHPUint测试工作
 
 [PHPUnit手册](https://phpunit.readthedocs.io/zh_CN/latest/)
+
+- 针对类 Class 的测试写在类 ClassTest 中。
+- ClassTest（通常）继承自 PHPUnit\Framework\TestCase。
+- 测试都是命名为 test* 的公用方法。
+  也可以在方法的文档注释块（docblock）中使用 @test 标注将其标记为测试方法。
+- 在测试方法内，类似于 assertSame()（参见断言）这样的断言方法用来对实际值与预期值的匹配做出断言。
